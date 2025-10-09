@@ -224,7 +224,7 @@ hadoop-hdds/framework/src/main/resources/webapps/static/d3-3.5.17.min.js
 MIT License
 -----------
 
-hadoop-hdds/framework/src/main/resources/webapps/static/bootstrap-3.4.1
+hadoop-hdds/framework/src/main/resources/webapps/static/bootstrap-4.0.0
 hadoop-hdds/docs/themes/ozonedoc/static/css/bootstrap-*
 hadoop-hdds/docs/themes/ozonedoc/static/js/bootstrap.min.js
 hadoop-hdds/docs/themes/ozonedoc/static/fonts/glyphicons-*

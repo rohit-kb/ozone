@@ -32,7 +32,6 @@ tools/fault-injection-service/README.md
 **/webapps/static/angular-1.8.0.min.js
 **/webapps/static/angular-nvd3-1.0.9.min.js
 **/webapps/static/angular-route-1.8.0.min.js
-**/webapps/static/bootstrap-3.4.1/**
 **/webapps/static/bootstrap-4.0.0/**
 **/webapps/static/d3-3.5.17.min.js
 **/webapps/static/jquery-3.5.1.min.js

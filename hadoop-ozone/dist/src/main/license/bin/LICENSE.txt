@@ -523,7 +523,7 @@ d3-3.5.17.min.js
 MIT License
 =====================
 
-bootstrap-3.4.1
+bootstrap-4.0.0
 css/bootstrap-*
 fonts/glyphicons-*
 bootstrap.min.js

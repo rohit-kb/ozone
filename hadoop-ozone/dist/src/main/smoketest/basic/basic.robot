@@ -29,7 +29,7 @@ ${SCM}          scm
 
 Check webui static resources
     Run Keyword if    '${SECURITY_ENABLED}' == 'true'    Kinit HTTP user
-    ${result} =        Execute                curl --negotiate -u : -s -I http://${SCM}:9876/static/bootstrap-3.4.1/js/bootstrap.min.js
+    ${result} =        Execute                curl --negotiate -u : -s -I http://${SCM}:9876/static/bootstrap-4.0.0/js/bootstrap.min.js
                        Should contain         ${result}    200
 
 Basic Freon smoketest
